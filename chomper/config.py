@@ -17,6 +17,6 @@ def is_valid(conf):
     """Validate a chomper configuration file, returns True if no errors, false
     otherwise"""
 
-    # Do validation checks: if any issues/errors return False
+    # TODO Do validation checks: if any issues/errors return False
 
     return True
